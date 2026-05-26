@@ -105,7 +105,7 @@ this tool is made for learning, testing dns providers, and quick switching on wi
 --- 
 
 ```
- /\_/\\
+  /\_/\
  ( o.o )
   > ^ <
 ```
