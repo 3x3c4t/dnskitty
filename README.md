@@ -14,7 +14,7 @@ It provides a terminal interface with a cat-themed ASCII design, a list of DNS p
 * automatic dns apply to all network interfaces
 * clean console interface with colors
 * invalid input handling with retry loop
-* ascii cat theme
+* ascii cat :)
 
 ---
 
