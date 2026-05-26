@@ -1,3 +1,4 @@
+# DNSKITTY 
 **dnskitty** is a simple Windows-only Python tool that lets you quickly change your system DNS servers using `netsh`.
 
 It provides a terminal interface with a cat-themed ASCII design, a list of DNS providers, and basic input handling.
@@ -100,3 +101,7 @@ README.md    # this file
 ## notes
 
 this tool is made for learning, testing dns providers, and quick switching on windows systems.
+
+ /\_/\\
+ ( o.o )
+  > ^ <
