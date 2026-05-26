@@ -74,13 +74,13 @@ def pick():
     while True:
         show()
         try:
-            choice = int(input(f"\n{c}pick dns kitty : {n}")) - 1
+            choice = int(input(f"\n{c}pick dns : {n}")) - 1
             if 0 <= choice < len(DNS_LIST):
                 return list(DNS_LIST.keys())[choice]
         except:
             pass
 
-        print(f"\n{r}bad choice kitty{n}")
+        print(f"\n{r}bad choice >:({n}")
         os.system("timeout /t 1 >nul")
         clear()
 
