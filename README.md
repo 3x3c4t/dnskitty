@@ -102,6 +102,8 @@ README.md    # this file
 
 this tool is made for learning, testing dns providers, and quick switching on windows systems.
 
+```
  /\_/\\
  ( o.o )
   > ^ <
+```
